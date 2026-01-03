@@ -4,7 +4,7 @@ Hi 👋 My name is Dolthida Klakhaeng
 Student try coding first time in life before born.
 
 * 🌍  I'm based in Bangkok
-* ✉️  You can contact me at [dolthida-k@rmutp.ac.th](mailto:dolthida-k@rmutp.ac.th)
+* ✉️  You can contact me at [dontida10809@gmail.com](mailto:dontida10809@gmail.com)
 * 🧠  I'm currently learning Java, React, NodeJS
 
 <p align="left">
